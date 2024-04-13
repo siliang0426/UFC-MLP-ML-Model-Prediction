@@ -1,0 +1,2 @@
+R_odds,B_odds,R_current_lose_streak,R_current_win_streak,R_avg_SIG_STR_landed,R_wins,R_Reach_cms,B_current_lose_streak,B_current_win_streak,B_avg_SIG_STR_landed,B_wins,B_Reach_cms,R_Stance,B_Stance,lose_streak_dif,win_streak_dif,longest_win_streak_dif,win_dif,loss_dif,total_round_dif,total_title_bout_dif,ko_dif,sub_dif,height_dif,reach_dif,age_dif,sig_str_dif,avg_sub_att_dif,avg_td_dif
+-550,375,0,3,5.9,24,160,0,2,5.55,17,160,Switch,Orthodox,0,-1,20,-5,0,-9,-6,-3,-8,2,0,0,0.35,-0.36,-1.43
