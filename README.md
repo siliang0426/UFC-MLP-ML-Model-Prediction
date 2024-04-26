@@ -11,3 +11,7 @@
 
 ## New update on 04/13/2024 4:05AM
 Trying new features combination on the ML model, predicting that there is 86% chance that Zhang Weili will win based on the Gradient Boosting and logistic model!
+
+
+## New update on 04/15/2024 3:00AM
+With the Transformer Block on a augmented dataset with athletes odds by +-1, the new model reachs 97% accuracy!
